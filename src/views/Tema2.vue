@@ -15,7 +15,7 @@
         .row.px-4
           .col-12.p-5.bg-color5
             p.mb-0 El Ministerio de Salud y Protección Social, a través de la Resolución 926 de 2017, reglamenta el desarrollo y operación del Sistema de Emergencias Médicas (SEM) en Colombia, para garantizar una respuesta oportuna y efectiva a las situaciones de urgencia que se presenten en todo el territorio nacional.
-          img(src='@/assets/curso/img22.svg', style='width: 270px; position: relative; left: 50%; bottom: 20px;')
+          img(src='@/assets/curso/img12.png', style='width: 270px; position: relative; left: 50%; bottom: 20px;')
     separador.mb-5
     #t_2_1
     .titulo-segundo

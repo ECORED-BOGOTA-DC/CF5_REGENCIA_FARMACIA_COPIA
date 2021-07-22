@@ -67,7 +67,7 @@
           .col-4
             figure
               img(src='@/assets/curso/img6.svg', alt='Texto que describa la imagen')
-        h3.text-center.mb-0 Artículo 131
+        h3.text-center.mb-0 Artículo 120
         h4.text-center.mb-5 Lesiones culposas
         p.text-center (Penas aumentadas por el artículo 14 de la ley 890 de 2004) El que por culpa cause a otro alguna de las lesiones a las que se refieren los artículos anteriores, incurrirá en la respectiva pena disminuida de las cuatro quintas, a las tres cuartas partes.
     p.mb-5 Para poseer una mejor comprensión del párrafo anterior, debemos tener claros varios conceptos que estudiaremos a continuación.
@@ -167,9 +167,10 @@
             figure
               img(src='@/assets/curso/img15.svg', style='width: 1250px').m-auto
       div(titulo="Responsabilidad")
-        .row.align-items-start
+        .row.align-items-center
           .col-8
-            p.mb-0 El buen auxiliar deberá ser responsable de sus actos; por esta razón, debe comprometerse con la preparación continua y con el proceder respetuoso, no hacer daño al lesionado, no realizar acciones que desconoce y no experimentar desenlaces, debido a que esto afectará negativamente a la persona lesionada.
+            p El buen auxiliar deberá ser responsable de sus actos; por esta razón, debe comprometerse con la preparación continua y con el proceder respetuoso, no hacer daño al lesionado, no realizar acciones que desconoce y no experimentar desenlaces, debido a que esto afectará negativamente a la persona lesionada.
+            p.mb-0 Es función importante del primer respondiente, portar los implementos básicos para auxiliar a un lesionado y autoprotegerse; además, estos instrumentos serán muy útiles en caso que el lesionado sea él.
           .col-4
             figure
               img(src='@/assets/curso/img16.svg', style='width: 300px').m-auto
@@ -276,30 +277,55 @@
     .titulo-segundo
       h2 1.4 Principios básicos de la actuación del primer respondiente
     p.mb-5 Teniendo en cuenta lo estudiado anteriormente, analicemos cuáles son los principios básicos de la actuación del primer respondiente, a través de la siguiente imagen.
-    .h5.text-center.mb-5 Actuación primer respondiente
-    ImagenInfografica.color-secundario.mb-5
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/img20.svg', alt='Texto que describa la imagen')
-      .tarjeta.color-acento-botones.p-3(x="7.2%" y="90%")
-        .h5.mb-2 01
-        p Mantener la serenidad actuando con rapidez.
-      .tarjeta.color-acento-botones.p-3(x="24.3%" y="9%")
-        .h5.mb-2 02
-        p Evaluar la escena del accidente y mitigar los riesgos.
-      .tarjeta.color-acento-botones.p-3(x="41.5%" y="90%")
-        .h5.mb-2 03
-        p Valoración del lesionado. Llamar al NUSE.
-      .tarjeta.color-acento-botones.p-3(x="58.6%" y="9%")
-        .h5.mb-2 04
-        p Evitar mover al lesionado. Conservar  la cadena de custodia.
-      .tarjeta.color-acento-botones.p-3(x="75.8%" y="90%")
-        .h5.mb-2 05
-        p Priorizar la atención.
-      .tarjeta.color-acento-botones.p-3(x="92.8%" y="9%")
-        .h5.mb-2 06
-        p Tranquilizar la víctima.
-      
+    .h5.mb-5 Actuación primer respondiente
+    .row
+      .col-12
+        LineaTiempoC.color-acento-contenido
+          .row(titulo="1")
+            .col-12
+              figure
+                img(src='@/assets/curso/img56.svg', style="width:1000px").m-auto
+          .row(titulo="2")
+            .col-12
+              figure
+                img(src='@/assets/curso/img57.svg', style="width:1000px").m-auto
+          .row(titulo="3")
+            .col-12
+              figure
+                img(src='@/assets/curso/img58.svg', style="width:1000px").m-auto
+          .row(titulo="4")
+            .col-12
+              figure
+                img(src='@/assets/curso/img59.svg', style="width:1000px").m-auto
+          .row(titulo="5")
+            .col-12
+              figure
+                img(src='@/assets/curso/img60.svg', style="width:1000px").m-auto
+          .row(titulo="6")
+            .col-12
+              figure
+                img(src='@/assets/curso/img61.svg', style="width:1000px").m-auto
+          .row(titulo="7")
+            .col-12
+              figure
+                img(src='@/assets/curso/img62.svg', style="width:1000px").m-auto
+          .row(titulo="8")
+            .col-12
+              figure
+                img(src='@/assets/curso/img63.svg', style="width:1000px").m-auto
+          .row(titulo="9")
+            .col-12
+              figure
+                img(src='@/assets/curso/img64.svg', style="width:1000px").m-auto
+          .row(titulo="10")
+            .col-12
+              figure
+                img(src='@/assets/curso/img65.svg', style="width:1000px").m-auto
+          .row(titulo="11")
+            .col-12
+              figure
+                img(src='@/assets/curso/img66.svg', style="width:1000px").m-auto
+          
 </template>
 
 <script>

@@ -170,8 +170,6 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2017). Resolución Número 000926 de 2017.',
-      link:
-        'https://saludtolima-my.sharepoint.com/personal/info_saludtolima_gov_co/Documents/Public/Resoluciones/Resolucion%20No.926%20de%202017.pdf?originalPath=aHR0cHM6Ly9zYWx1ZHRvbGltYS1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9pbmZvX3NhbHVkdG9saW1hX2dvdl9jby9FVHYwc1dNOG03SktzTXJleThHZGxZMEI4TmhWT0NZcV9kRWZMNjJudlZ2aTdBP3J0aW1lPXVJTENnNmxEMlVn',
     },
     {
       referencia:
@@ -377,7 +375,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

@@ -56,10 +56,10 @@
           .row(numero="7" titulo="Otros elementos")
             .col-12
               p Guantes desechables, tapabocas, linterna, tijeras, termómetro digital, lista de teléfonos de emergencia, incluidos los de la EPS y la ARL, férulas o tablillas, inmovilizadores o cabestrillos, bolsas plásticas para desechos.
-    .row.align-items-center.bg-color3.px-5
+    .row.align-items-center.bg-color2.px-5
       p.my-5 Además, se recomienda tener en el lugar de trabajo, tablas espinales, collares, material de inmovilización y bioseguridad.
       .row.align-items-center.mb-5(data-aos="fade-left")
-        img(src='@/assets/curso/img55.svg', style='width: 105px').px-0
+        img(src='@/assets/curso/img55.svg', style='width: 131px').px-0
         .col.p-4.bg-color10
           p #[b Precaución]:
           ul.lista-ul.ms-5.mb-4
@@ -72,8 +72,9 @@
             li 
               i.fas.fa-atom(style="color: #7E5EE3")
               | Todos los componentes deben estar debidamente empacados y marcados. En el caso de los líquidos, se recomienda utilizar envases plásticos, pues el vidrio se puede romper con facilidad.
-      .cajon.color-primario.p-4.mb-5
-        p.mb-0 Periódicamente se deberá revisar el botiquín y sustituir aquellos componentes que se encuentren sucios, contaminados, dañados, o en los que no se pueda leer de forma clara, la fecha de vencimiento.
+            li 
+              i.fas.fa-atom(style="color: #7E5EE3")
+              | Periódicamente se deberá revisar el botiquín y sustituir aquellos componentes que se encuentren sucios, contaminados, dañados, o en los que no se pueda leer de forma clara, la fecha de vencimiento.
 
 </template>
 

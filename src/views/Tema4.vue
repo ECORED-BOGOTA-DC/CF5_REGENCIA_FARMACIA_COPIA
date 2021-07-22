@@ -16,7 +16,7 @@
           .row.px-4
             .col-12.p-5.bg-color5
               p.mb-0 La Organización Mundial de la Salud, define a un accidente como: un acontecimiento imprevisto, independiente de la voluntad humana, incitado por una fuerza exterior que actúa rápidamente y se manifiesta por la aparición de lesiones orgánicas o trastornos mentales.
-            img(src='@/assets/curso/img39.svg', style='width: 270px; position: relative; left: 50%; bottom: 30px;')
+            img(src='@/assets/curso/img13.png', style='width: 270px; position: relative; left: 50%; bottom: 30px;')
           .cajon.color-primario.p-4.mb-4
             p.mb-0 De acuerdo con el registro de llamadas a la línea 123, en el 2016, en ciudades como Bogotá, Medellín y Barranquilla, se determinó la tasa de incidencia de los diferentes tipos de accidentes, de la siguiente manera:
         .col-12
@@ -73,7 +73,7 @@
               .bloque-texto-d.color-secundario.p-4
                 .bloque-texto-d__texto.mb-2
                   i.fas.fa-quote-left
-                  h3.text-regular Un accidente de tránsito es un evento generalmente involuntario, generado al menos por un vehículo en movimiento, que causa daños a personas y bienes involucrados en él, e igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho.
+                  h3.text-regular #[b Un accidente de tránsito es un evento generalmente involuntario, generado al menos por un vehículo en movimiento, que causa daños a personas y bienes involucrados en él, e igualmente afecta la normal circulación de los vehículos que se movilizan por la vía o vías comprendidas en el lugar o dentro de la zona de influencia del hecho.]
                   i.fas.fa-quote-right.d-flex.justify-content-end
           p.mb-5 Los tipos de accidentes de tránsito que se presentan con mayor frecuencia son:
           figure.mb-5

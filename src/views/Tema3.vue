@@ -20,40 +20,10 @@
           img(src='@/assets/curso/img9.png', style='width: 270px').m-auto
       .col-12.mt-4
         p Ahora, el peligro es una condición o particularidad sustancial, que puede llegar a ocasionar lesión o enfermedad, daño a la propiedad y/o paralización de un proceso; en cambio, el riesgo es la combinación de la posibilidad y la consecuencia de no controlar el peligro.
-        p Al evaluar los riesgos presentes, en el lugar de la emergencia, es fundamental tener en cuenta tanto el suceso en sí mismo, como las condiciones del tráfico, de las personas presentes y de las vías de acceso.También pueden manifestarse otros riesgos asociados y amenazas relacionadas, tales como:
-    .row.justify-content-center
-      .col-lg-10
-        .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img30.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
-            .p-4
-              h2 Control público
-              p Uno de los factores que puede obstaculizar la correcta administración de la emergencia, lo compone la presencia de espectadores en la escena; para solucionarlo, se debe procurar ubicarlos fuera de la zona de impacto o área crítica.
-        .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img31.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
-            .p-4
-              h2 Iluminación
-              p En algunas ocasiones, particularmente en horas nocturnas, es importante que la zona de impacto se encuentre debidamente iluminada; el primer respondiente puede utilizar linternas, o las mismas luces de los vehículos pueden servir para iluminar el área.
-        .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img32.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
-            .p-4
-              h2 Delimitación y señalización
-              p La labor de delimitación del área de riesgo, debe llevarse a cabo por el conductor, quien utilizará señales luminosas, conos, cintas o banderas reflectivas y debe dejar acceso para otros vehículos que ayuden con la emergencia. La delimitación debe incluir la zona de impacto o área crítica (donde solo deben acceder los grupos de salvamento, búsqueda y rescate) el puesto de avanzada (en el límite de la anterior), lugar donde se ubica el primer nivel de mando, y la zona de seguridad, que permita delimitar el acceso a curiosos y a personas que no sean precisas en el manejo de la emergencia.
-    .cajon.color-primario.p-4
-      p.mb-0 Si el primer respondiente se transforma en una víctima, no va a poder ayudar a las personas accidentadas y pasará a engrosar la cantidad de pacientes y, al mismo tiempo, reducirá la cantidad de auxiliares capacitados para asistir en el evento. Por lo tanto, su preocupación primordial en la escena de emergencia, es su seguridad personal. La intención de ayudar a los que necesitan atención, puede hacer que descuide los peligros de la escena. El auxiliador o primer respondiente, debe ratificar que puede llegar de una manera segura hasta el paciente, y que la escena le confiera la tranquilidad para brindar los cuidados correspondientes a las víctimas.
-    separador.mb-5
-    #t_3_1
-    .row.align-items-center.bg-color3.px-5.pt-0
-      .titulo-segundo
-        h2 3.1 Asegurar el área
-      p La seguridad de la situación no solo implica protección para el responsable del rescate, sino también para el paciente.
-      p Según los peligros asociados, los factores de riesgo y las amenazas vinculadas, se debe decidir la competencia para controlarlos de manera eficiente. Si se considera apto para controlar todos los riesgos existentes y posee el equipo necesario, debe seguir los procedimientos propios de cada evento para asegurar el área, y reubicar el transporte a la mayor distancia recomendada para cada evento. Si no conoce o tiene dudas, permanezca dentro del vehículo y alerte a las entidades competentes.
-      p Tenga en cuenta las siguientes recomendaciones:
-      .row.mb-5
+        p.mb-5 Al evaluar los riesgos presentes, en el lugar de la emergencia, es fundamental tener en cuenta tanto el suceso en sí mismo, como las condiciones del tráfico, de las personas presentes y de las vías de acceso.También pueden manifestarse otros riesgos asociados y amenazas relacionadas, tales como:
+      .row
         .col-lg-4
-          figure(data-aos="fade-right")
+          figure(data-aos="fade-right").mb-4.mb-lg-0
             img(src='@/assets/curso/img33.svg', style='width: 270px').m-auto
         .col-lg-8
           LineaTiempoD.color-secundario
@@ -63,6 +33,36 @@
             p.text-small(numero="4" titulo="Amenaza de incendio o explosión") Cuando se origina un incendio, o se presenta la posibilidad de una explosión en la escena.
             p.text-small(numero="5" titulo="Amenaza de origen antrópico") Cuando, por consecuencia del evento, se generan peleas o riñas en el escenario de la emergencia, un peligro oculto ocasionado por actividad humana con presencia de actores armados.
             p.text-small(numero="6" titulo="Amenaza de colapso de estructuras") Cuando se encuentran ante le presencia de estructuras que corren el peligro de colapsar.
+    .cajon.color-primario.p-4
+      p.mb-0 Si el primer respondiente se transforma en una víctima, no va a poder ayudar a las personas accidentadas y pasará a engrosar la cantidad de pacientes y, al mismo tiempo, reducirá la cantidad de auxiliares capacitados para asistir en el evento. Por lo tanto, su preocupación primordial en la escena de emergencia, es su seguridad personal. La intención de ayudar a los que necesitan atención, puede hacer que descuide los peligros de la escena. El auxiliador o primer respondiente, debe ratificar que puede llegar de una manera segura hasta el paciente, y que la escena le confiera la tranquilidad para brindar los cuidados correspondientes a las víctimas.
+    separador.mb-5
+    #t_3_1
+    .row.align-items-center.bg-color3.px-5.pt-0
+      .titulo-segundo
+        h2 3.1 Asegurar el área
+      p La seguridad de la situación no solo implica protección para el responsable del rescate, sino también para el paciente.
+      p Según los peligros asociados, los factores de riesgo y las amenazas vinculadas, se debe decidir la competencia para controlarlos de manera eficiente. Si se considera apto para controlar todos los riesgos existentes y posee el equipo necesario, debe seguir los procedimientos propios de cada evento para asegurar el área, y reubicar el transporte a la mayor distancia recomendada para cada evento. Si no conoce o tiene dudas, permanezca dentro del vehículo y alerte a las entidades competentes.
+      p.mb-5 Tenga en cuenta las siguientes recomendaciones:
+      .row.justify-content-center
+        .col-lg-10
+          .tarjeta-avatar-b.mb-5
+            img(src='@/assets/curso/img30.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul
+              .p-4
+                h2 Control público
+                p Uno de los factores que puede obstaculizar la correcta administración de la emergencia, lo compone la presencia de espectadores en la escena; para solucionarlo, se debe procurar ubicarlos fuera de la zona de impacto o área crítica.
+          .tarjeta-avatar-b.mb-5
+            img(src='@/assets/curso/img31.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul
+              .p-4
+                h2 Iluminación
+                p En algunas ocasiones, particularmente en horas nocturnas, es importante que la zona de impacto se encuentre debidamente iluminada; el primer respondiente puede utilizar linternas, o las mismas luces de los vehículos pueden servir para iluminar el área.
+          .tarjeta-avatar-b.mb-5
+            img(src='@/assets/curso/img32.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul
+              .p-4
+                h2 Delimitación y señalización
+                p La labor de delimitación del área de riesgo, debe llevarse a cabo por el conductor, quien utilizará señales luminosas, conos, cintas o banderas reflectivas y debe dejar acceso para otros vehículos que ayuden con la emergencia. La delimitación debe incluir la zona de impacto o área crítica (donde solo deben acceder los grupos de salvamento, búsqueda y rescate) el puesto de avanzada (en el límite de la anterior), lugar donde se ubica el primer nivel de mando, y la zona de seguridad, que permita delimitar el acceso a curiosos y a personas que no sean precisas en el manejo de la emergencia.
     figure.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/img34.svg', style='width: 1200px').m-auto
     .cajon.color-primario.p-4.mb-4
@@ -88,8 +88,8 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img35.svg', style='width: 270px').m-auto
     separador.mb-5
-    #t_3_1
     .row.align-items-center.bg-color3.px-5.pt-0
+      #t_3_2
       .titulo-segundo
         h2 3.2 Valoración del entorno
       .row.justify-content-center
@@ -144,8 +144,9 @@
                     i.fas.fa-atom(style="color: #00BCD4")
                     | ¿Se necesita equipo de rescate vehicular para la extracción de personas atrapadas?
               .col-lg-6
-                figure(data-aos="fade-left")
+                figure(data-aos="fade-left").mb-4.mb-lg-0
                   img(src='@/assets/curso/img37.svg', style='width: 350px').m-auto
+            p Cuando se activa el servicio de emergencias médicas, es fundamental dar la información clara y precisa al radioperador; de esta manera la respuesta a la emergencia puede ser mucho más rápida y eficiente.
         div(titulo="Localización de peligros latantes")
           .row
             .col-12
