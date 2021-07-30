@@ -97,7 +97,7 @@
       h2 2.2 Tipos de escenarios
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZH7tpPz4pLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/xDWKd5lfJOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
 
 </template>
 

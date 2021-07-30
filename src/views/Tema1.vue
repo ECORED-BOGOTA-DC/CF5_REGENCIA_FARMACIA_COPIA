@@ -10,6 +10,7 @@
     p.mb-5 ¿Sabías que todos los días, los individuos y la comunidad, en general, están sujetos a una enorme cantidad de intimidaciones de procedencia natural y a otras tantas más, provocadas por los seres humanos?
     figure(data-aos="fade-left")
       img(src='@/assets/curso/img2.svg', style='width: 950px').m-auto
+
     .row.align-items-center.bg-color2.px-5
       .col-12
         .row
